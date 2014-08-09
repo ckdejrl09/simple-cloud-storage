@@ -30,7 +30,7 @@ public class CloudStorage {
 	private static Properties properties;
 	private static Storage storage;
 
-	private static final String PROJECT_ID_PROPERTY = "reflected-oath-641";
+	private static final String PROJECT_ID_PROPERTY = "";
 	private static final String APPLICATION_NAME_PROPERTY = "application.name";
 	private static final String ACCOUNT_ID_PROPERTY = "account.id";
 	private static final String PRIVATE_KEY_PATH_PROPERTY = "private.key.path";
